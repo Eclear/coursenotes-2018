@@ -5,4 +5,5 @@
   赛码网  
   微软历年题  
   leetcode  
-* [微软亚研院](https://www.zhihu.com/question/50512586)
+* [微软亚研院](https://www.zhihu.com/question/50512586)  
+[拿offer后准备应聘](http://www.1point3acres.com/bbs/thread-350438-1-1.html)
