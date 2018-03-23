@@ -1,6 +1,7 @@
 # coursenotes-2018
 * 软件测试
 * 刷题：  
+  [如何开始刷题](http://www.cfdtlee.com/2018/03/12/job-hunting-how-to-do-leetcode/)
   牛客网  
   赛码网  
   微软历年题  
